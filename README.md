@@ -25,6 +25,7 @@ other implementations are coming soon. Want to help? Let's [get in touch](mailto
 
 ### Related Projects
 
+  * [node-pg-client](https://github.com/kriasoft/node-pg-client) — ES7 async/await client library for PostgreSQL
   * [React Starter Kit](https://github.com/kriasoft/react-starter-kit) — Isomorphic web app boilerplate (Node.js, GraphQL, React)
 
 ### License
