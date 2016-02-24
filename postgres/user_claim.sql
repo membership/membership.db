@@ -8,13 +8,14 @@
 -- LICENSE.txt file in the root directory of this source tree.
 --------------------------------------------------------------------------------
 
-CREATE TABLE "UserLogin" (
-  "userId" uuid NOT NULL,
-  "name"   character varying(50),
-  "key"    character varying(100),
+CREATE TABLE user_claim (
+  id      uuid NOT NULL DEFAULT uuid_generate_v1mc(),
+  user_id uuid NOT NULL,
+  type    character varying(256),
+  value   character varying(4000),
   -- Keys
-  CONSTRAINT "UserLogin_pkey" PRIMARY KEY (name, key),
-  CONSTRAINT "UserLogin_User_fkey" FOREIGN KEY ("userId")
-      REFERENCES "User" (id) MATCH SIMPLE
+  CONSTRAINT user_claim_pk_id PRIMARY KEY (id),
+  CONSTRAINT user_claim_user_account_fk_user_id FOREIGN KEY (user_id)
+      REFERENCES user_account (id) MATCH SIMPLE
       ON DELETE CASCADE ON UPDATE CASCADE
 );
