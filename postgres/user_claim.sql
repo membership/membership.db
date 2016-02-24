@@ -14,8 +14,8 @@ CREATE TABLE user_claim (
   type    character varying(256),
   value   character varying(4000),
   -- Keys
-  CONSTRAINT user_claim_pk_id PRIMARY KEY (id),
-  CONSTRAINT user_claim_user_account_fk_user_id FOREIGN KEY (user_id)
+  CONSTRAINT user_claim_pkey PRIMARY KEY (id),
+  CONSTRAINT user_claim_user_account_fkey FOREIGN KEY (user_id)
       REFERENCES user_account (id) MATCH SIMPLE
       ON DELETE CASCADE ON UPDATE CASCADE
 );

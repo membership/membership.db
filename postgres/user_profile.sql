@@ -18,8 +18,8 @@ CREATE TABLE user_profile (
   created_at   timestamp without time zone DEFAULT timezone('utc'::text, now()),
   updated_at   timestamp without time zone DEFAULT timezone('utc'::text, now()),
   -- Keys
-  CONSTRAINT user_profile_pk_user_id PRIMARY KEY (user_id),
-  CONSTRAINT user_profile_user_account_fk_user_id FOREIGN KEY (user_id)
+  CONSTRAINT user_profile_pkey PRIMARY KEY (user_id),
+  CONSTRAINT user_profile_user_account_fkey FOREIGN KEY (user_id)
       REFERENCES user_account (id) MATCH SIMPLE
       ON DELETE CASCADE ON UPDATE CASCADE
 );

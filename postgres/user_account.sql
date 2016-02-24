@@ -22,6 +22,6 @@ CREATE TABLE user_account (
   lockout_enabled        boolean NOT NULL DEFAULT false,
   access_failed_count    smallint NOT NULL DEFAULT 0,
   -- Keys
-  CONSTRAINT user_account_pk_id PRIMARY KEY (id),
-  CONSTRAINT user_account_uk_email UNIQUE (email)
+  CONSTRAINT user_account_pkey PRIMARY KEY (id),
+  CONSTRAINT user_account_email_key UNIQUE (email)
 );
