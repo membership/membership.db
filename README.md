@@ -23,6 +23,17 @@ other implementations are coming soon. Want to help? Let's [get in touch](mailto
   * Konstantin Tarkus ([@koistya](https://twitter.com/koistya))
   * Vladimir Kutepov ([@frenzzy](https://github.com/frenzzy))
 
+### Backers
+
+♥ Membership DB? Help us keep it alive by [donating funds](https://www.patreon.com/tarkus) to cover project expenses!
+
+<a href="https://github.com/koistya" target="_blank">
+  <img src="https://github.com/koistya.png?size=64">
+</a>
+<a href="https://www.patreon.com/bePatron?patAmt=25&amp;u=2475816" target="_blank">
+  <img src="https://opencollective.com/static/images/become_backer.svg">
+</a>
+
 ### Related Projects
 
   * [node-pg-client](https://github.com/kriasoft/node-pg-client) — ES7 async/await client library for PostgreSQL
