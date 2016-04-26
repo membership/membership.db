@@ -11,8 +11,10 @@
 > claims. Feel free to use it either as a boilerplate when starting a new web
 > application project, or simply as a reference implementation.
 
-See [PostgreSQL implementation](https://github.com/membership/membership.db/tree/master/postgres),
-other implementations are coming soon. Want to help? Let's [get in touch](mailto:hello@tarkus.me)!
+See [PostgreSQL](https://github.com/membership/membership.db/tree/master/postgres)
+and [SQL Server](https://github.com/membership/membership.db/tree/master/mssql)
+implementations &nbsp;|&nbsp; Join [#membership.db](https://gitter.im/membership/membership.db)
+chat room on Gitter to stay up to date
 
 ### To-Do List
 
@@ -32,6 +34,12 @@ other implementations are coming soon. Want to help? Let's [get in touch](mailto
 ### Related Projects
 
 * [React Starter Kit](https://github.com/kriasoft/react-starter-kit) — Isomorphic web app boilerplate (Node.js, GraphQL, React)
+* [Babel Starter Kit](https://github.com/kriasoft/babel-starter-kit) — JavaScript library boilerplate (ES2015, Babel, Rollup)
+
+### Support
+
+* [#membership.db](https://gitter.im/membership/membership.db) chat room on Gitter
+* [@koistya](https://twitter.com/koistya) on [Codementor](https://www.codementor.io/koistya)
 
 ### License
 
