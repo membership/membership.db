@@ -33,7 +33,7 @@
     <td>
       <p>
         <strong><a href="http://amzn.to/21qCtqH">PostgreSQL 9 Administration Cookbook</a>, 2nd Edition</strong><br />
-        by Simon Riggs, Gianni Ciolli, Hannu Krosing; Packt Publishing (May 2015)
+        <sup>by Simon Riggs, Gianni Ciolli, Hannu Krosing; Packt Publishing (May 2015)</sup>
       </p>
       <p>
         A practical guide with over 150 recipes, this book will help you to get you back up and running with an
