@@ -6,6 +6,21 @@
   * [Microsoft SQL Server 2012](https://www.microsoft.com/server-cloud/products/sql-server/) and higher, or
   * [LocalDB 2012](https://www.microsoft.com/server-cloud/products/sql-server-editions/sql-server-express.aspx) and higher
 
+### Naming Conventions
+
+  * Singular UpperCamelCase names for tables. E.g. `UserLogin`
+  * Singular UppserCamelCase names for columns. E.g. `PhoneNumber`
+  * Always try to use names that make sense and are descriptive of their purpose
+  * Single column primary key fields should be named `Id`
+  * Use the following pattern for constraints and indexes: `{suffix}_{tablename}_{columnname(s)}` where the suffix is
+   one of the following:
+    * `PK` for a Primary Key constraint
+    * `AK` for a Unique constraint / Alternate Key
+    * `IX` for any other kind of index
+    * `FK` for a Foreign Key
+    * `CK` for a Check constraint
+    * `DF` for a Default constraint
+
 ### License
 
 Copyright © 2016 Membership Database contributors. This source code is licensed
