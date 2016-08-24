@@ -26,13 +26,13 @@
 <table width="100%">
   <tr>
     <td width="185">
-      <a href="http://amzn.to/21qCtqH">
+      <a href="http://amzn.to/2bhH4Gw">
         <img src="http://ecx.images-amazon.com/images/I/51xWZ8b11ML._SX150.jpg" width="150" height="185" alt="PostgreSQL 9 Administration Cookbook" />
       </a>
     </td>
     <td>
       <p>
-        <strong><a href="http://amzn.to/21qCtqH">PostgreSQL 9 Administration Cookbook</a>, 2nd Edition</strong><br />
+        <strong><a href="http://amzn.to/2bhH4Gw">PostgreSQL 9 Administration Cookbook</a>, 2nd Edition</strong><br />
         <sup>by Simon Riggs, Gianni Ciolli, Hannu Krosing; Packt Publishing (May 2015)</sup>
       </p>
       <p>

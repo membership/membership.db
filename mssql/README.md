@@ -26,13 +26,13 @@
 <table width="100%">
   <tr>
     <td width="185">
-      <a href="http://amzn.to/1rpZcXl">
+      <a href="http://amzn.to/2bg10x2">
         <img src="http://ecx.images-amazon.com/images/I/41u5XO75fBL._SX150.jpg" width="150" height="183" alt="T-SQL Querying (Developer Reference)" />
       </a>
     </td>
     <td>
       <p>
-        <strong><a href="http://amzn.to/1rpZcXl">T-SQL Querying (Developer Reference)</a></strong><br />
+        <strong><a href="http://amzn.to/2bg10x2">T-SQL Querying (Developer Reference)</a></strong><br />
         <sup>by Itzik Ben-Gan, Adam Machanic, Dejan Sarka, Kevin Farlee; Microsoft Press (Mar 2015)</sup>
       </p>
       <p>
@@ -47,13 +47,13 @@
   </tr>
   <tr>
     <td width="185">
-      <a href="http://amzn.to/1Tc5WhD">
+      <a href="http://amzn.to/2bBjZnQ">
         <img src="http://ecx.images-amazon.com/images/I/51PswGF7o9L._SX150.jpg" width="150" height="183" alt="Microsoft SQL Server 2012 Internals (Developer Reference)" />
       </a>
     </td>
     <td>
       <p>
-        <strong><a href="http://amzn.to/1Tc5WhD">Microsoft SQL Server 2012 Internals (Developer Reference)</a></strong><br />
+        <strong><a href="http://amzn.to/2bBjZnQ">Microsoft SQL Server 2012 Internals (Developer Reference)</a></strong><br />
         <sup>by Kalen Delaney, Bob Beauchemin, Conor Cunningham, Jonathan Kehayias, Paul S. Randal, Benjamin Nevarez; Microsoft Press (Nov 2013)</sup>
       </p>
       <p>

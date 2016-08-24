@@ -9,15 +9,18 @@ user accounts, roles and authentication tokens / claims to be used in web applic
 * [Membership Database Schema for SQL Server](https://github.com/membership/membership.db/tree/master/mssql)
 * [Membership Database Schema for SQLite](https://github.com/membership/membership.db/tree/master/sqlite)
 
+
 ### Related Projects
 
 * [React Starter Kit](https://github.com/kriasoft/react-starter-kit) — Isomorphic web app boilerplate (Node.js, GraphQL, React)
 * [Babel Starter Kit](https://github.com/kriasoft/babel-starter-kit) — JavaScript library boilerplate (ES2015, Babel, Rollup)
 
+
 ### Support
 
 * [#membership.db](https://gitter.im/membership/membership.db) chat room on Gitter
 * [@koistya](https://twitter.com/koistya) on [Codementor](https://www.codementor.io/koistya)
+
 
 ### License
 

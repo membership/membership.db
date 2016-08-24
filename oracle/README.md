@@ -1,5 +1,7 @@
 ## Membership Database Schema for Oracle
 
+Coming...
+
 ### System Requirements
 
   * [Oracle](https://www.oracle.com/database/) 12c and higher, or
