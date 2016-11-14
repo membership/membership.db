@@ -13,6 +13,7 @@ user accounts, roles and authentication tokens / claims to be used in web applic
 ### Related Projects
 
 * [React Starter Kit](https://github.com/kriasoft/react-starter-kit) — Isomorphic web app boilerplate (Node.js, GraphQL, React)
+* [GraphQL Starter Kit](https://github.com/kriasoft/graphql-starter-kit) — Project template for building GraphQL APIs with Node.js and JavaScript
 * [Babel Starter Kit](https://github.com/kriasoft/babel-starter-kit) — JavaScript library boilerplate (ES2015, Babel, Rollup)
 
 
