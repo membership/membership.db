@@ -9,7 +9,7 @@
 ### Naming Conventions
 
   * Singular UpperCamelCase names for tables. E.g. `UserLogin`
-  * Singular UppserCamelCase names for columns. E.g. `PhoneNumber`
+  * Singular UpperCamelCase names for columns. E.g. `PhoneNumber`
   * Always try to use names that make sense and are descriptive of their purpose
   * Single column primary key fields should be named `Id`
   * Use the following pattern for constraints and indexes: `{suffix}_{tablename}_{columnname(s)}` where the suffix is
